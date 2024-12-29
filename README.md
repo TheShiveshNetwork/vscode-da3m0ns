@@ -4,9 +4,10 @@
 [![forks]][forks-url]
 [![stars]][stars-url]
 [![license]][license-url]
-# Da3m0ns
 
-Da3m0ns (pronounced daemons) is a dark theme for Visual Studio Code inspired by the aesthetics of cyberpunk and hacker culture. It features a high contrast color scheme with vibrant accents, designed to reduce eye strain and improve code readability during long coding sessions.
+# Da3m0ns Theme
+
+Da3m0ns (pronounced daemons) is a dark theme for Visual Studio Code inspired by the aesthetics of neovim. It features a high contrast color scheme with vibrant accents, designed to reduce eye strain and improve code readability during long coding sessions.
 
 <!-- Table of Contents -->
 # 📔 Table of Contents
@@ -28,10 +29,10 @@ Da3m0ns theme is designed to be easy to install and customize, allowing develope
 ### 📷 Screenshots 
 
 #### Da3m0ns Dark 
-<img src="./assets/screenshots/1.png" width="400px">
+<img src="./assets/screenshots/1.png">
 
 #### Da3m0ns Dark Italic 
-<img src="./assets/screenshots/1.png" width="400px">
+<img src="./assets/screenshots/1.png">
 
 ### 🌟 Features
 

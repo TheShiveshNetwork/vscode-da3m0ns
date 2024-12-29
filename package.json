@@ -1,7 +1,7 @@
 {
   "name": "daemons",
-  "displayName": "Da3m0ns",
-  "description": "Da3m0ns is a sleek and modern dark theme for Visual Studio Code, designed to reduce eye strain and enhance code readability. Perfect for developers who prefer a stylish and professional coding environment. Experience the perfect blend of aesthetics and functionality with Da3m0ns.",
+  "displayName": "Da3m0ns Theme",
+  "description": "A sleek and modern dark theme inspired from neovim.",
   "publisher": "mrknown404",
   "version": "0.1.4",
   "engines": {
