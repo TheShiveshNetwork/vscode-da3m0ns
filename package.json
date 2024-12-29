@@ -3,7 +3,7 @@
   "displayName": "Da3m0ns Theme",
   "description": "A sleek and modern dark theme inspired from neovim.",
   "publisher": "mrknown404",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.96.0"
   },
