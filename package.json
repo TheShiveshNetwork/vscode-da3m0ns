@@ -3,7 +3,7 @@
   "displayName": "Da3m0ns",
   "description": "Da3m0ns is a sleek and modern dark theme for Visual Studio Code, designed to reduce eye strain and enhance code readability. Perfect for developers who prefer a stylish and professional coding environment. Experience the perfect blend of aesthetics and functionality with Da3m0ns.",
   "publisher": "mrknown404",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "vscode": "^1.96.0"
   },
