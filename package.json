@@ -1,0 +1,36 @@
+{
+  "name": "daemons",
+  "displayName": "Da3m0ns",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "icon": "icons/icon-square.png",
+  "author": {
+    "name": "Shivesh Tiwari",
+    "email": "shiveshtiwari0@gmail.com",
+    "url": "https://shitworks.co/"
+  },
+  "repository": {
+    "url": "https://github.com/TheShiveshNetwork/vscode-da3m0ns",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Da3m0ns Dark (Italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daemons-italic-color-theme.json"
+      },
+      {
+        "label": "Da3m0ns Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daemons-color-theme.json"
+      }
+    ]
+  }
+}

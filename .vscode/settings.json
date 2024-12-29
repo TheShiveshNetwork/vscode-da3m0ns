@@ -1,0 +1,7 @@
+{
+    "window.titleBarStyle": "native",
+    "window.experimental.windowBackground": "#1a1b2666",
+    "window.experimental.useLegacyWindowBorders": true,
+    "vscode_vibrancy.opacity": 0.8,
+    "vscode_vibrancy.type": "acrylic"
+}
