@@ -14,6 +14,9 @@
         "statusBar.background": "#1a1b26",
         "statusBar.foreground": "#a9b1d6",
         "statusBar.border": "#00000000",
+
+		"titleBar.activeBackground": "#1a1b26",
+        "titleBar.activeForeground": "#a9b1d6",
         
         // Explorer section headers and tabs
         "sideBarSectionHeader.background": "#1a1b26",
@@ -50,6 +53,9 @@
         "list.hoverForeground": "#7aa2f7",
         "editorGroup.border": "#00000000",
         "editorGroupHeader.tabsBackground": "#1a1b26",
+		"editorGroupHeader.noTabsBackground": "#1a1b26",
+		"tab.inactiveBackground": "#1a1b26",
+		"tab.activeBackground": "#11121a",
         "editorGroupHeader.tabsBorder": "#00000000",
         "editorGroup.dropBackground": "#292e4299",
         "list.errorForeground": "#f7768e",
