@@ -2,6 +2,7 @@
   "name": "daemons",
   "displayName": "Da3m0ns",
   "description": "",
+  "publisher": "mrknown404",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
